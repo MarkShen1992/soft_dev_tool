@@ -1,2 +1,5 @@
 # soft_dev_tool
-软件开发工具
+# **1. zooinspector**
+
+https://github.com/zzhang5/zooinspector.git  最新的Zookeeper Inspector
+
